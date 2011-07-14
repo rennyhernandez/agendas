@@ -2,7 +2,7 @@
 #
 # Install the MySQL driver:
 #   gem install mysql2
-#
+# es de mercy
 # And be sure to use new-style password hashing:
 #   http://dev.mysql.com/doc/refman/5.0/en/old-client.html
 development:
