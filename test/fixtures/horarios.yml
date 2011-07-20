@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  fecha: 2011-07-20
+  hora_inicio: 2011-07-20 16:34:09
+  hora_fin: 2011-07-20 16:34:09
+
+two:
+  fecha: 2011-07-20
+  hora_inicio: 2011-07-20 16:34:09
+  hora_fin: 2011-07-20 16:34:09
